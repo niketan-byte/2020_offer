@@ -18,8 +18,12 @@ Nice Initiative by the owner of this repository
 why should i contribute.
 
 Great initiative by digital ocean
+<<<< master
 and it will become an amazing project.
 
+=======
+ i want to contribute and also want t shirt 
+>>>>>> master
 
 
 
